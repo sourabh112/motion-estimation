@@ -1,4 +1,4 @@
 # motion-estimation
 visual odometry
 
-<img src="github.gif" width="400" height="400" />
+<img src="github.gif" width="700" height="400" />
